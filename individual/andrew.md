@@ -4,6 +4,6 @@
 | **#2: Dental Office Site** | **Incremental**  | They want a basic site first, then wants to add bigger features later like appointments, text reminders, and discounts. Incremental fits because we can deliver a working site early and add features in steps over time. It matches the idea of continually expanding the site without needing every detail up front. |
 | **#3: Nuclear Power Plant Monitoring** | **Waterfall**  | This is safety critical software, so we need clear requirements, heavy documentation, and strong verification at every stage. Waterfall fits because it is plan first, build second, and test carefully before moving on. |
 | **#4: Department of Transportation Cloud App** | **Waterfall**  | The project has a long and detailed spec, and our company has done similar transportation projects before. Waterfall makes sense here because the requirements are pretty stable and contract based, so having clear phases, milestones, and sign offs works well. |
-| **#5: Reducing Traffic Management** |  |  |
+| **#5: Reducing Traffic Management** | **Spiral**  |  This project is pretty high risk because it combines a lot of moving parts like distributed computing, networking, GPS tracking devices, sensors, cameras, and real time updates. Spiral makes sense since it is built around finding risks early and doing prototypes, so we can test the hardest parts before we fully commit. That way we do not end up realizing a huge technical problem near the end.|
 | **#6: Educational Game** |  |  |
 | **#7: Global Health Startup** |  |  |
