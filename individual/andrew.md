@@ -1,13 +1,3 @@
-# SDLC Model Selection Report
-
-## Individual Section
-
-[Jump to the table](#individual-sdlc-choices)
-
-> Note: These are my individual picks before the team meets to decide as a group.
-
-### Individual SDLC Choices
-
 | Project | Choice | Justification |
 |---------|-----------|------------------|
 | **#1: New e-Commerce Site (PerfectApparel)** | **Agile**  | The goal is to build a shopping experience that keeps customers coming back, and features like customization will probably change once users try it. Agile fits because it supports quick feedback and lets us adjust requirements in short cycles. |
@@ -17,5 +7,3 @@
 | **#5: Reducing Traffic Management** | **Spiral**  |  This project is pretty high risk because it combines a lot of moving parts like distributed computing, networking, GPS tracking devices, sensors, cameras, and real time updates. Spiral makes sense since it is built around finding risks early and doing prototypes, so we can test the hardest parts before we fully commit. That way we do not end up realizing a huge technical problem near the end.|
 | **#6: Educational Game** | **XP (Extreme Programming)** | We have a small team and the requirements are going to change, and teachers will want to try the games as soon as possible. XP fits because it is all about quick releases, fast feedback, and keeping the code solid with constant testing and improvement. Also, having someone who stays connected with teachers and administrators lines up really well with how XP is supposed to work. |
 | **#7: Global Health Startup** | **Agile**  | We are a really small startup team and we need to show impact fast so we can qualify for more grant money. Agile fits because we can build a simple MVP quickly, work in short cycles, and adjust based on what people actually need once we get real feedback. |
-
-![Software lifecycle sketch](https://datarob.com/content/images/2019/08/image-23.png)
