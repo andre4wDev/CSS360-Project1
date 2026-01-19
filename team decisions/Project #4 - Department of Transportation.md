@@ -1,4 +1,4 @@
-# Group Section (Project #1)
+# Group Section (Project #4)
 
 ## #4: Department of Transportation
 
@@ -17,20 +17,19 @@ With the existing documentation for the project, being able to go through develo
 Especially given the 18 month time constraint, it was important that this solution was streamlined. 
 Not to mention the fact that this team already has experience building similar such systems, waterfall makes the most sense here.
 
-### Other Models We Considered
+### Another Model We Considered
 
-1. **RAD (Rapid Application Development)**
-   RAD was a good option because the site already uses in-house templates and expects us to reuse the same tools with minor changes. RAD works well with reusable components and quick iterations, which can speed up development and support fast feedback. We did not pick RAD as the final choice because we still have a lot of coordination work with the interpreter team and evolving feature priorities, and Agile gives us a stronger structure for sprint planning, backlog changes, and ongoing stakeholder feedback.
-
-2. **Incremental**
-   Incremental also made sense because we could deliver a basic store first, then add customization and outfit matching later. Agile won out because it is more flexible when requirements are unclear, and it pushes continuous customer feedback instead of just adding features in a fixed sequence.
+1. **V-Model**
+We also considered the V-model since the project didn't require much maintenance and wasn't subject to change. More importantly it was considered due to testing at each step of the development process.
 
 ### Key Aspects That Mattered Most
 
-* **Unclear and evolving requirements**
-  This is critical because the user experience goals are big, but the exact features that will keep customers coming back will take testing and iteration. Agile supports learning quickly and changing direction without wasting a ton of time.
+* **Specific, defined, extensive documentation**
+This was extremely important to our decision as the waterfall model often falls short in the documentation regard. Since it is given in the contract, it makes the waterfall method worth using.
 
-* **Dependencies on the interpreter team and reused tools**
-  This is critical because parts of the work depend on another group updating the Java interpreter and template system. Agile helps us coordinate, adjust scope, and keep progress moving even when dependencies shift.
+* **Time Deadline**
+The time deadline was a critical factor in our choices since the waterfall method was not subject to much change, it was more important that the method would be done in time. This ties into the other aspect, that since the documentation is given, the process is expedited and was able to more comfortably fit in the time constraint.
+
+
 
 
