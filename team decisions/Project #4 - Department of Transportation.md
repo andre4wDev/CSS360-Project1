@@ -12,9 +12,10 @@
 
 ### Why Waterfall is a Good Fit
 
-Agile fits this project because a lot of the “make customers come back” features will change once we see what real users actually like. 
-Things like custom colors, custom designs, and outfit matching are hard to get perfect on the first try, so short iterations and feedback cycles are good. 
-Agile also helps because the team is mixed with experienced devs, new hires, and interns, so breaking work into smaller sprints keeps things organized and easier to manage.
+For this project waterfall seemed to be the best fit due to it's linear approach to the system that is being created. 
+With the existing documentation for the project, being able to go through development and getting approved each step of the way was a huge bonus.
+Especially given the 18 month time constraint, it was important that this solution was streamlined. 
+Not to mention the fact that this team already has experience building similar such systems, waterfall makes the most sense here.
 
 ### Other Models We Considered
 
@@ -31,4 +32,5 @@ Agile also helps because the team is mixed with experienced devs, new hires, and
 
 * **Dependencies on the interpreter team and reused tools**
   This is critical because parts of the work depend on another group updating the Java interpreter and template system. Agile helps us coordinate, adjust scope, and keep progress moving even when dependencies shift.
+
 
