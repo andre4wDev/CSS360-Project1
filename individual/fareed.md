@@ -7,13 +7,13 @@ Chosen SDLC: **Incremental**
 
 Justification: Incremental would work mainly due to our good friend wanting to have basic features first and add more things later. They're flexible with time and want to continulessly support the website with updates overtime.
 ## Project #3: Nuclear Power Plant
-Chosen SDLC: 
+Chosen SDLC: **Spiral**
 
-Justification:
+Justification: Because of the long matenice and lifespan this project needs, a Spiral workflow cycle would probably work the best. Spiral would also give the project a higher chance of succeeding since it would tackle the riskiest problems first.
 ## Project #4: Department of Transportation
-Chosen SDLC: 
+Chosen SDLC: **Waterfall**
 
-Justification:
+Justification: I chose Waterfall mainly because this project looks planned with the requirements already being chosen. The team has experience in projects similar to this so a liner approch should support the fixed deadline.
 ## Project #5: Reducing Traffic
 Chosen SDLC: 
 
