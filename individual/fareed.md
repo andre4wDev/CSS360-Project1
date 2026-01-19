@@ -28,6 +28,6 @@ Chosen SDLC: **XP**
 
 Justification: An XP approch would benefit the fast pace of development and the lack of requirements. XP would also help with the small team size and the project feedback.
 ## Project #7: Global Health
-Chosen SDLC: 
+Chosen SDLC: **Agile**
 
-Justification: 
+Justification: Agile would make sense because of the lack of known requirements. Agile development also allows quick releases for future grants and lets new hires integrate into the workflow.
