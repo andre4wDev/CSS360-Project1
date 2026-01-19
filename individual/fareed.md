@@ -15,14 +15,19 @@ Chosen SDLC: **Waterfall**
 
 Justification: I chose Waterfall mainly because this project looks planned with the requirements already being chosen. The team has experience in projects similar to this so a liner approch should support the fixed deadline.
 ## Project #5: Reducing Traffic
-Chosen SDLC: 
+Chosen SDLC: **Spiral**
 
-Justification:
+Justification: This project requires:
+- Real-time updates
+- Distributed computing and networking
+- Constant moderation
+
+Spiral would solve the heavy risk by dealing with it early. Spiral would also help with introducing the team to these new technologies while refining the project with constrant updates making it more reliable.
 ## Project #6: Educational game
-Chosen SDLC: 
+Chosen SDLC: **XP**
 
-Justification:
+Justification: An XP approch would benefit the fast pace of development and the lack of requirements. XP would also help with the small team size and the project feedback.
 ## Project #7: Global Health
 Chosen SDLC: 
 
-Justification:
+Justification: 
