@@ -1,4 +1,4 @@
-# Group Section (Project #5)
+# Group Section (Project #6)
 
 ## #6: Educational game
 
