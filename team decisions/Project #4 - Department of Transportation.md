@@ -20,7 +20,7 @@ Not to mention the fact that this team already has experience building similar s
 ### Another Model We Considered
 
 1. **V-Model**
-
+We also considered the V-model since the project didn't require much maintenance and wasn't subject to change. More importantly it was considered due to testing at each step of the development process.
 
 ### Key Aspects That Mattered Most
 
@@ -29,6 +29,7 @@ This was extremely important to our decision as the waterfall model often falls 
 
 * **Time Deadline**
 The time deadline was a critical factor in our choices since the waterfall method was not subject to much change, it was more important that the method would be done in time. This ties into the other aspect, that since the documentation is given, the process is expedited and was able to more comfortably fit in the time constraint.
+
 
 
 
