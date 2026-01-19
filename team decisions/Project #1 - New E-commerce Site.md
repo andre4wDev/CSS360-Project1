@@ -2,7 +2,7 @@
 
 ## #1: New e-Commerce Site (PerfectApparel)
 
-[Jump to Key Aspects](#key-aspects-that-mattered-most-1)
+[Jump to Key Aspects](#key-aspects-that-mattered-most)
 
 > Final team decision: **Agile**
 
@@ -29,3 +29,4 @@ Agile fits this project because a lot of the “make customers come back” feat
 
 * **Dependencies on the interpreter team and reused tools**
   This is critical because parts of the work depend on another group updating the Java interpreter and template system. Agile helps us coordinate, adjust scope, and keep progress moving even when dependencies shift.
+
